@@ -5,4 +5,3 @@ git commit -m "Hello i wanna talk but i can't means it is just me"
 git remote add origin https://github.com/Bahi-xo/Xo.git
 git push -u origin master
 
-Hello i wanna talk but i can't means it is just me
